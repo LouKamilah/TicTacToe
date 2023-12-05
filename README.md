@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Tic Tac Toe | Resposive
+Tic Tac Toe ||||| Responsive
 
 ## Tecnologías:
 <br>
