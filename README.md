@@ -7,6 +7,6 @@ Tic Tac Toe Responsive
 
 ![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/TicTacToe/master/Screen_1.png)
 <br>
-![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/TicTacToe/main/Screen_2.png)
+![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/TicTacToe/master/Screen_2.png)
 <br>
 ![https://github.com/LouKamilah](https://raw.githubusercontent.com/LouKamilah/TicTacToe/master/Screen_3.png)
